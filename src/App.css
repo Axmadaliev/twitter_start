@@ -1,0 +1,14 @@
+/* .App {
+  background-color: red;
+} */
+.container {
+  margin: auto;
+  display: flex;
+  width: 1500px;
+  /* max-height: fit-content; */
+  border: 1px solid red;
+  margin-top: 40px;
+}
+img {
+  display: flex;
+}
